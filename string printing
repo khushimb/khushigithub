@@ -1,0 +1,11 @@
+class Cars{
+public static void main(String[] args){
+	
+	String[] car={"Hyundai","Honda","Maruthi","Mahindra","Toyota","Landrover","Kia","Vokswagen","Tata","Skoda"};
+	
+	for (String ref : car)
+	{
+		System.out.println(ref);
+	}
+}
+}
